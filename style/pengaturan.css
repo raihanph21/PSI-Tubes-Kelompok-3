@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(to bottom right, #21cdc3, #1d3461);
+}
+
+footer {
+  background: linear-gradient(to bottom right, #21cdc3, #1d3461);
+}
+
+.kosong {
+  height: 135px;
+}
+
+.submit {
+  width: 150px;
+  padding: 10px;
+  background-color: #6290c8c7;
+  border-radius: 10px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  outline: none;
+  margin: 10px;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: #1f487e;
+}

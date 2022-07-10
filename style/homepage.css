@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(to bottom right, #21cdc3, #1d3461);
+}
+
+footer {
+  background: linear-gradient(to bottom right, #21cdc3, #1d3461);
+}
+
+.content {
+  padding-top: 5rem;
+}
+
+.kosong {
+  height: 200px;
+}
